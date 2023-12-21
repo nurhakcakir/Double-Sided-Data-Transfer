@@ -1,0 +1,1 @@
+print("Veriler account_move tablosuna başarıyla PostgreSQL'e aktarıldı.")

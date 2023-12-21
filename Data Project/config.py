@@ -1,7 +1,7 @@
 
-database_name = "dbodoo16"
-user = "postgres"
-password = "Nurhak123"
+database_name = "dbname"
+user = "username"
+password = "passw0rd"
 host = "localhost"
 port = 5432
 
